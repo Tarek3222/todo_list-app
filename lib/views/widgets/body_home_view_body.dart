@@ -19,7 +19,7 @@ class _BodyHomeViewBodyState extends State<BodyHomeViewBody> {
     super.initState();
   }
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context){
     return Column(
       children: [
         Container(
